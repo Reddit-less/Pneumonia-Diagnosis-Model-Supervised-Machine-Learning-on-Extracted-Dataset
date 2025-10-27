@@ -63,5 +63,3 @@ Deep learning applications in medical imaging (e.g., Radiologist-Level Pneumonia
 Advanced model architectures (e.g., Vision Transformers, Capsule Networks).
 
 Modern training methodologies (e.g., Self-Supervised Learning).
-
-This review informed the project's scope and the selection of appropriate, industry-standard classification models.
